@@ -4,7 +4,7 @@
 
 
 
- Super Store Sales Analysis| pandas numpy seaborn matplotlib plotly 
+ Super Store Sales Analysis| pandas. numpy. seaborn .matplotlib .plotly 
  1.	INTRODUCTION 
 
 A question that bothers every business person regardless of their industry or business size is- “what can be done to improve sales? Analysis solutions help produce insights from data, metrics, and sales patterns. As a result, analyzing sales can help you better known previous sales results and make more informed decisions about market potential, prospects and customers, product lines, and sales team performance this analysis seeks to provide insight to all of this. Running a successful firm requires careful consideration of sales analysis. With the aid of sales analytics, you can choose which goods to prioritize, where to market, and how to effectively connect with buyers. In order to complete my analysis, I must determine whether Sales have increased across all of the variables that have been suggested as having the ability to affect this superstore.
